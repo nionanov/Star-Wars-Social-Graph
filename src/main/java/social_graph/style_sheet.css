@@ -1,0 +1,117 @@
+graph {
+ fill-color: gray;
+}
+edge{
+fill-color: white;
+}
+node {
+fill-color: red;
+z-index: 0;
+size: 3px;
+stroke-mode: plain;
+stroke-color: #555;
+}
+node#Yoda{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_32434_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Darth Maul'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_285725_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Kylo Ren'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_529818_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Chewbaacca'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_529816_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Jar Jar Binks'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_529817_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Boba Fett'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_219350_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Gial Ackbar'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_85622.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Anakin Skywalker'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_65913_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Grievous'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_901432_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Padmé Amidala'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_529811_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Leia Organa Solo'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_838386_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Rey'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_674235_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}
+node#'Greedo'{
+size: 32px;
+fill-mode: image-scaled;
+fill-image: url('./icons/noun_439887_cc.png');
+z-index: 2;
+stroke-mode: none;
+stroke-color: #555;
+}

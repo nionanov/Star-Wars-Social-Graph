@@ -1,0 +1,993 @@
+Anakin Skywalker,1
+Ben Quadinaros,1
+Fodesinbeed Annodue,1
+Gasgano,1
+Jabba Desilijic Tiure,1
+Jar Jar Binks,1
+Mars Guo,1
+Mawhonic,1
+Qui-Gon Jinn,1
+Ratts Tyerell,1
+Watto,1
+Boles Roor,2
+Dud Bolt,2
+Ody Mandrell,2
+Ahsoka Tano,2
+Asajj Ventress,2
+Bib Fortuna,2
+Black Krrsantan,2
+Boba Fett,2
+Boushh,2
+Cad Bane,2
+Argyus,2
+Bail Organa,2
+Darth Maul,2
+Darth Sidious,2
+Daughter,2
+Che Amanwe Papanoida,2
+Chewbacca,2
+Chi Eekway Papanoida,2
+Aang,2
+Aayla Secura,2
+Adi Gallia,2
+CC-5869,2
+Dooku,2
+Cylo,2
+Father (Mortis),2
+Finis Valorum,2
+Agen Kolar,2
+Aggadeen,2
+Ebor,2
+Agruss,2
+Aiolin Astarte,2
+Ezra Bridger,2
+Luke Skywalker,2
+Akar-Deshu,2
+Gardulla Besadii the Elder,2
+Nute Gunray,2
+Almec,2
+Obi-Wan Kenobi,2
+Greedo,2
+Han Solo,2
+Padmé Amidala,2
+Panaka,2
+Rugor Nass/Canon,2
+Satine Kryze,2
+Shmi Skywalker Lars,2
+Son,2
+Grievous,2
+Lando Calrissian,2
+Leia Organa,2
+Mama,2
+Hondo Ohnaka,2
+Cliegg Lars,2
+Julia,2
+Katuunko,2
+Kharrus,2
+Atai Molec,2
+Lee-Char,2
+Aurra Sing,2
+Oola,2
+Oruba,2
+Papanoida,2
+Pre Vizsla,2
+Barriss Offee,2
+Rotta,2
+Savage Opress,2
+Lott Dod,2
+Lyonie,2
+Mace Windu,2
+Mapo,2
+Yoda,2
+Neeyutnee,2
+Nuvo Vindi,2
+Onaconda Farr,2
+Peppi Bow,2
+Peteen,2
+Beebox,2
+Berch Teller,2
+Berisse Sai,2
+Biggs Darklighter,2
+Bixene,2
+Riff Tamson,2
+Rish Loo,2
+Roos Tarpals,2
+Rugor Nass,2
+Savatte,2
+Sy Snootles,2
+Bolla Ropal,2
+Bossk,2
+Talzin,2
+Yarna d'al' Gargan,2
+Ziro,2
+Ziro's father,2
+Bruno Denturri,2
+CC-2224,2
+CC-5052,2
+CT-1409,2
+CT-411,2
+CT-5385,2
+CT-5555,2
+CT-6116,2
+Turk Falso,2
+CT-7567,2
+Yos Kolina,2
+Car Affa,2
+Carise Sindian,2
+Carlist Rieekan,2
+Casiss,2
+Cassio Tagge,2
+Cato Parasitti,2
+Cham Syndulla,2
+Charger,2
+Chelli Lona Aphra,2
+Chi Cho,2
+Chong,2
+Ciena Ree,2
+Cin Drallig,2
+Coburn,2
+Colandrus,2
+Commodex Tahn,2
+Conan Antonio Motti,2
+Cornelius Evazan,2
+Crest,2
+Crosshair,2
+Darts D'Nar,2
+Daultay Dofine,2
+Delian Mors,2
+Denal,2
+Dengar,2
+Dodd Rancit,2
+Dogma,2
+Doowan,2
+Drua,2
+Eeth Koth,2
+Eighth Brother,2
+Embo,2
+Endente,2
+Even Piell,2
+Faazah,2
+Fifth Brother,2
+Firmus Piett,2
+Galen Walton Erso,2
+Garri,2
+Garven Dreis,2
+Gavyn Sykes,2
+Gha Nachkt,2
+Gial Ackbar,2
+Goll,2
+Grakkus,2
+Grecker,2
+Gregar Typho,2
+Harus Ison,2
+Hera Syndulla,2
+Hunter,2
+Isval,2
+Jackar Bowmani,2
+Jango Fett,2
+Jaybo Hood,2
+Jen June,2
+Jester,2
+Jinx,2
+Jira,2
+Jun Sato,2
+Kallus,2
+Kanan Jarrus,2
+Karbin,2
+Karina the Great (Age of the Empire),2
+Karina the Great (Clone Wars),2
+Kassius Konstantine,2
+Kav Bayons,2
+Kendal Ozzel,2
+Ki-Adi-Mundi,2
+Kilian,2
+Kit Fisto,2
+Kitster Banai,2
+Kolara,2
+Kreel,2
+Kronn,2
+Kylo Ren,2
+Lama Su,2
+Letta Turmond,2
+Lok Durd,2
+Lom Pyke,2
+Longshot,2
+Lorth Needa,2
+Loubo,2
+Luitt,2
+Luminara Unduli,2
+Maketh Tua,2
+Mar Tuuk,2
+Mas Amedda,2
+Maximillian Veers,2
+Maz Kanata,2
+Meena Tills,2
+Miraj Scintel,2
+Moradmin Bast,2
+Moralo Eval,2
+Morit Astarte,2
+Naare,2
+Nakha Urus,2
+Nossor Ri,2
+O-Mer,2
+Odd Ball,2
+Ooblamon,2
+Oon-ai,2
+Orn Free Taa,2
+Orson Callan Krennic,2
+Osi Sobeck,2
+Owen Lars,2
+Pell Baylo,2
+Phoca Soot,2
+Plo Koon,2
+Poggle the Lesser,2
+Pong Krell,2
+Pran,2
+Quinlan Vos,2
+Rae Sloane,2
+Rako Hardeen,2
+Ransolm Casterfo,2
+Raymus Antilles,2
+Rey,2
+Rig Nema,2
+Riyo Chuchi,2
+Robonino,2
+Roo-Roo Page/Canon,2
+Rubix,2
+Rumi Paramita,2
+Rush Clovis,2
+Sabine Wren,2
+Saesee Tiin,2
+Salacious B. Crumb,2
+Saw Gerrera,2
+Scythe,2
+Seripas/Canon,2
+Seventh Sister,2
+Shaak Ti,2
+Shaef Corssin,2
+Sifo-Dyas,2
+Silman,2
+Sionver Boll,2
+Slick,2
+Snoke,2
+Steela Gerrera,2
+Sugi (bounty hunter),2
+Tal Merrik,2
+Tech,2
+Teckla Minnau,2
+Tee Watt Kaa,2
+Tera Sinube,2
+Thanoth,2
+The Ante,2
+The Dragon,2
+The Grand Inquisitor,2
+Thlu-Ry,2
+Tiaan Jerjerrod,2
+Tiplar,2
+Tiplee,2
+Torul Blom,2
+Trench,2
+Trios,2
+Tu-Anh,2
+Tulon Voidgazer,2
+Twazzi,2
+Utani Xane,2
+Vaneé,2
+Viscus,2
+Wag Too,2
+Wald,2
+Wat Tambor,2
+Wedge Antilles,2
+Whorm Loathsom,2
+Wilhuff Tarkin,2
+Wrecker,2
+Wullf Yularen,2
+Zam Wesell,2
+Clegg Holdfast,3
+Asajj Ventress's mother,3
+Teemto Pagalies,3
+Bulduga,3
+Pagetti Rook,3
+Derrown,3
+CC-1004,3
+CC-3636,3
+Alora (child),3
+Ashla (Jedi),3
+Saponza,3
+Saponza's partner,3
+Castas,3
+Jakoli,3
+Colt,3
+Kiera Swan,3
+Daka,3
+Feral,3
+Fife,3
+Mantu,3
+Onca,3
+Darja,3
+Hal'Sted,3
+Halsey,3
+Ord Enisence,3
+Pablo,3
+Rackham Sear,3
+Fong Do,3
+Shahan Alama,3
+Sinrich,3
+Jiro (pirate),3
+Sixtat,3
+Karis,3
+Fardi,3
+Knox,3
+Krismo Sodi,3
+Ky Narec,3
+Laalee,3
+Lassa Rhayme,3
+Latts Razzi,3
+Garazeb Orrelios,3
+Luce,3
+Hedala Fardi,3
+Marg Krim,3
+Moregi,3
+Moregi's child,3
+Moregi's wife,3
+Wee Dunn,3
+Naa'leth,3
+Jenneth Pilar,3
+Kaeden Larte,3
+Oked,3
+Otua Blank,3
+Lux Bonteri,3
+Pluma Sodi,3
+Mon Mothma,3
+Rigosso,3
+Ratch/Canon,3
+Pypey,3
+Sheb Valaad,3
+Sixth Brother,3
+Taun We,3
+Wuher,3
+Sumdin,3
+Tezzka Krim,3
+Tholme,3
+Tseebo,3
+Vram (Pyke),3
+Ziton Moj,3
+Bail Antilles,3
+Bail Prestor Organa,3
+Breha Organa,3
+Chardri Tage,3
+Bendu,3
+Bo-Katan Kryze,3
+Evaan Verlaine,3
+Jan Dodonna,3
+Faro Argyus,3
+Eldra Kaitis,3
+Jyn Erso,3
+Klik-Klak,3
+Gar Saxon,3
+Mitth'raw'nuruodo/Canon,3
+Philo,3
+Quarrie,3
+Khaat Qiyn,3
+Khaat Qiyn's apprentice,3
+Morley,3
+Maris Brood,3
+Tamsin,3
+Rook Kast,3
+Shara Bey,3
+Sio Bibble,3
+Zett Jukassa,3
+Sosha Soruna,3
+Ainlee Teem,3
+Arihnda Pryce,3
+Armitage Hux,3
+Belkor Dray,3
+Vorhdeilo,3
+Alecia Beck,3
+Xev Xrexus,3
+Brendol Hux,3
+Brentin Lore Wexley,3
+Arrax (Zarro's father),3
+Caluan Ematt,3
+Darth Bane,3
+Chirpa,3
+Darth Plagueis,3
+Curtis,3
+Delia Leighton,3
+Dessard,3
+Domm Korgale,3
+Erstin Deez,3
+Finn,3
+Garnac,3
+Golas Aram,3
+Gallius Rax,3
+Terr Taneel,3
+Harter Kalonia,3
+Hove,3
+Hrrgn,3
+Imra,3
+Jas Emari,3
+Jaum,3
+Jom Barell,3
+Kai (Imperial),3
+Kes Dameron,3
+Kirratha,3
+Jylia Shale,3
+Kalpana,3
+Lozen Tolruck,3
+Lumpawaroo/Canon,3
+Malla,3
+Nien Nunb,3
+Norra Wexley,3
+Phasma,3
+Poe Dameron,3
+Mina Bonteri,3
+Mina Bonteri's husband,3
+Rigger,3
+Roshyk,3
+Sakas,3
+Nala Se,3
+Narmn,3
+Sevox,3
+Sinjir Rath Velus,3
+Palpatine,3
+Strater,3
+Tarfful,3
+Temmin Wexley,3
+Tyvak,3
+Cameron,3
+Coleman Kcaj,3
+Depa Billaba,3
+Flash,3
+Lucky,3
+Ansibella Delu,3
+Bec Lawise,3
+Chata Hyoki,3
+Gume Saam,3
+Rowan Freemaker,3
+Yarua,3
+Zarro,3
+Nahdar Vebb,3
+Nix Card,3
+Pilf Mukmuk,3
+Ramsis Dendup,3
+Roshti,3
+Sanjay Rash,3
+Terrinald Screed,3
+Yupe Tashu,3
+Dashira Dobeq,3
+Naveela Betuine,3
+Sistros,3
+Valorum (first Supreme Chancellor),3
+Gorga Desilijic Aarrpo,3
+Beru Whitesun Lars,3
+Bren Derlin,3
+Alton Kastle,3
+Camie Marstrap,3
+Amda Wabo,3
+Angrigo,3
+Azmorigan,3
+Dak Ralter,3
+Beck Ollet,3
+Deak (Skywalker's friend),3
+Brom Titus,3
+Brunson,3
+Drusil Bephorin,3
+CC-5576-39,3
+Eneb Ray,3
+Chava,3
+Cikatro Vizago,3
+Farnay,3
+Fayet Kelen,3
+Cumberlayne Aresko,3
+Derek Klivian,3
+Dhara Leonis,3
+Dicer,3
+Hurron,3
+Ephraim Bridger,3
+Erskin Semaj,3
+Huulik,3
+Fenn Rau,3
+Ferpil Wallaway,3
+Jessika Pava,3
+Jobal Naberrie,3
+Kivas,3
+Klaatu,3
+Gall Trayvis,3
+Laneet Chekkoo,3
+Gobi Glie,3
+Gold Five (Archeon Nebula),3
+Gold Four (Archeon Nebula),3
+Laze Loneozner,3
+Gold Two (rebellion),3
+Gooti Terez,3
+Lor San Tekka,3
+Gron,3
+Gronson Takkaro,3
+Hera Syndulla's mother,3
+Herdringer,3
+Amis,3
+Nakari Kelen,3
+Narra,3
+Jai Kell,3
+Jai Kell's mother,3
+Korkie Kryze,3
+Lagos,3
+Ponda Baba,3
+Soniee,3
+Jenkes,3
+Jessa Spanjaf,3
+Jho,3
+Jon Vander,3
+Jonner Jin,3
+Ketsu Onyo,3
+Kitwarr,3
+Ruwee Naberrie,3
+Sakhet,3
+Sana Starros,3
+Sarco Plank,3
+Serenity,3
+Rune Haako,3
+Boil,3
+Arliz Hadrassian,3
+Ion Papanoida,3
+Marida Sumar,3
+Mart Mattin,3
+Melch,3
+Merei Spanjaf,3
+Mira Bridger,3
+Chubor,3
+Morad Sumar,3
+Moreena Krai,3
+Moreena Krai's grandmother,3
+Myles Grint,3
+Nazhros Oleg,3
+Cordé,3
+Numa,3
+Oora,3
+Phoenix Leader (Ibaar),3
+Presence,3
+Halle Burtoni,3
+Death Watch bomber/Canon,3
+Dexter Jettster,3
+Jamillia,3
+Greer Sonnel,3
+Jerec (Deputy Minister),3
+Hazram Namir,3
+Lolo Purs,3
+Indiana Jones,3
+Mee Deechi,3
+Jenny,3
+Palo Jemabie,3
+Quarsh Panaka,3
+Sabé,3
+Siddiq,3
+Jocasta Nu,3
+Paploo,3
+Tan Divo,3
+Rinnrivin Di,3
+Veruna,3
+Shann Childsen/Canon,3
+Kin Robb,3
+Tee Va/Canon,3
+Taneetch Soonta,3
+Willard,3
+Windy,3
+Rake Gahree,3
+Ryder Azadi,3
+Slavin,3
+Terba,3
+Tristan Wren,3
+Tyson (Gold Squadron),3
+Ursa Wren,3
+Valen Rudor,3
+Nils Tenant,3
+Vult Skerris,3
+Revan,3
+Yogar Lyste,3
+Yushyn,3
+Zare Leonis,3
+Coburn Sear,3
+Kleeve,3
+Aleksin,3
+San Hill,3
+Gev Hessan,3
+Korin Pers,3
+Lobot,3
+Pavol,3
+Antrot,3
+Aurelant,3
+Auxi Kray Korbin,3
+Ssaria,3
+Beon Beonel,3
+Bon Yoth,3
+Toren,3
+Tsoklo,3
+TK-421,3
+Conder Kyl,3
+Covis,3
+Treidum,3
+Donta Gesset,3
+Dreed,3
+Erudo Ro-Kiintor,3
+Sera (Carnelion IV),3
+Hostis Ij,3
+Iolo Arana,3
+Joph Seastriker,3
+Jora Astane,3
+Junn,3
+Karé Kun,3
+Kayos,3
+Byph,3
+Khione,3
+Kidi Aleri,3
+Korr Sella,3
+Korro,3
+Thi-Sen,3
+Leia Organa's instructor,3
+Leia Organa Solo,3
+Lerr Duvat,3
+Aika Lars,3
+Lokmarcha,3
+Ganodi,3
+Gungi,3
+Waxer,3
+Mellowyn,3
+Katooni,3
+Wooley,3
+Petro,3
+Mul Sanaka,3
+Preigo,3
+Nyessa,3
+Seripas,3
+Shoan Kilian,3
+Zatt,3
+Notluwiski Papanoida,3
+Tutso Mara,3
+Tace,3
+Tai-Lin Garr,3
+Taslin Brance,3
+Thane Kyrell,3
+Tivvy,3
+Tosta,3
+Tula,3
+Uwa Pareece,3
+Varish Vicly,3
+Volk Aymeric,3
+Wicket W. Warrick,3
+Xun,3
+Yendor,3
+Zari Bangel,3
+Limbfree,3
+Apailana,3
+Mapo's father,3
+Mapo's mother,3
+Chuang,3
+Garro,3
+K'ungfu,3
+Lyra Erso,3
+Silood,3
+Wurtz,3
+Yoda's Jedi master,3
+Joseph,3
+Anora Fair,3
+Jova Tarkin,3
+Knotts,3
+Windy Starkiller,3
+Durge,3
+Fassa (Gungan),3
+Ferus Olin,3
+Gallo,3
+Teers,3
+Tobler Ceel,3
+BoShek,3
+Borbig Drob,3
+Cradossk,3
+Joh Yowza,3
+Max Rebo,3
+Jabba Desilijic Tiure's mother,3
+Nautag,3
+Talia (Nightsister),3
+Warjak,3
+CC-1010,3
+Ziro Desilijic Tiure,3
+Ziro Desilijic Tiure's father,3
+99,3
+Buzz,3
+CT-4040,3
+CT-782,3
+Crys,3
+Shu Mai,3
+Bric,3
+CT-00-2010,3
+CT-21-0408,3
+Trapper,3
+El-Les,3
+Havoc (ARC trooper),3
+Nub,3
+O'Niner,3
+CC-6454,3
+CT-5597,3
+Hardcase,3
+Kix,3
+Sidon Ithano,3
+Suu Lawquane,3
+Chopper (clone trooper),3
+Cut Lawquane,3
+Et Rex,3
+Gus,3
+Monnk,3
+Nik Sant,3
+Anib Ney,3
+Arbo (Senator),3
+Carise Sindian's grandmother,3
+Kendy Idele,3
+Ulric Tagge,3
+Ima-Gun Di,3
+Chelli Lona Aphra's father,3
+Keeli,3
+Pok,3
+Razor,3
+Stak,3
+Tekku Aylay,3
+Xira,3
+Lona Aphra,3
+Susina,3
+Toob-Nix,3
+Dalven Kyrell,3
+Deenlark,3
+Harn (Imperial),3
+Jude Edivon,3
+Nash Windrider,3
+Nierre,3
+Oris Kyrell,3
+Paron Ree,3
+Penrie,3
+Randd,3
+Ronnadam,3
+Ved Foslo,3
+Verine Ree,3
+Wynnet Ree,3
+Barton Coburn,3
+Bene,3
+Sammo Quid,3
+Whie,3
+Cassian Jeron Andor,3
+Caysin Bog,3
+Garouf Lafoe,3
+Kabe,3
+Tam Posla,3
+Tam Posla's superior officer,3
+Koho,3
+Baash,3
+Murra Mors,3
+Graballa,3
+Mercurial Swift,3
+Terrinald Screed/Canon,3
+Raam,3
+Zuckuss,3
+Drua's grandfather,3
+Drua's mother,3
+Mala (Twi'lek),3
+Naria,3
+Arvel Crynyd,3
+Ames Uravan,3
+Bodhi Rook,3
+Chai (king),3
+Dagio Belcoze,3
+Davits Draven,3
+Venta,3
+Feyn Vann,3
+Galen Walton Erso's father,3
+Galen Walton Erso's mother,3
+Gruppe,3
+Has Obitt,3
+Phara,3
+Rasett Milio,3
+Reeva Demesne,3
+Roman Herbane,3
+Sirro Argonne,3
+Vlex Onopin,3
+Adela Tyché,3
+Borvo,3
+Haf Mandrox,3
+Kael (officer),3
+Kol Kotha,3
+Lutin Hollis,3
+Palmer (female),3
+Rohan Wayside,3
+Ardin Deltura,3
+Nack Movers,3
+Vedd Deviss,3
+Zim Zam Blattis,3
+Crix Madine,3
+Hoff (Resistance captain),3
+Kyrsta Agate,3
+Niriian,3
+Pollus Maksim,3
+Saff Melor,3
+Toktar,3
+Armand Isard,3
+Terex,3
+Charko,3
+Denetrius Vidian,3
+Gord Grallik,3
+Hetto,3
+Pok (Twi'lek),3
+LT-319,3
+Lal Grallik,3
+Coleman Trebor,3
+Mart Mattin's father,3
+Okadiah Garson,3
+Palfa,3
+Skelly,3
+Chiron (lieutenant),3
+Hiram Zataire,3
+Hiram Zataire's son,3
+Jovan (Lieutenant),3
+Big-Mouth,3
+CC-10/994,3
+CT-1157,3
+Zaluna Myder,3
+Dron Ryall,3
+Earll,3
+Fissol,3
+Galus Vez,3
+Gamut Key,3
+Gowski,3
+Janus Kasmir,3
+Kaylon,3
+MaDall,3
+Mindiz,3
+Mixx,3
+Morfizia,3
+Morfizo,3
+Nadea Tural,3
+Antidar Williams,3
+Ask Aak,3
+CC-1138,3
+CC-1993,3
+Kitster Chanchani Banai,3
+Fil,3
+Izak Anzio,3
+Kolar Ludd,3
+Kreel's father,3
+Verette,3
+Darth Caedus,3
+Dopheld Mitaka,3
+Gir Kybo Ren-Cha,3
+Jaina Solo Fel,3
+Mara Jade Skywalker,3
+Remo,3
+Soot,3
+Styles,3
+Tai Uzuma,3
+Tápusk,3
+Yeleb,3
+Yelkin,3
+Sassi,3
+Aks Moe,3
+Angilar Bosh,3
+Blanaid,3
+Ars Dangor,3
+Bracchia,3
+Johhar Kessen,3
+Kosh,3
+Bala-Tik,3
+Maximilian Veers,3
+Cherff Maota,3
+Tundra Dowmeia,3
+Grummgar,3
+Kagi,3
+Infrablue Zedbeddy Coggins,3
+Jek-14,3
+Kordi Freemaker,3
+Pasqual,3
+Maz Kanata's husband,3
+Sei Taria,3
+Sly Moore,3
+Stellan,3
+Quiggold,3
+Romwell Krass Junior,3
+Strono Tuggs,3
+Sudswater Dillifay Glon,3
+Taybin Ralorsa,3
+Moralo Eval's mother,3
+Ubert Quaril,3
+Zander Freemaker,3
+Durpin,3
+Ignacio Wortan,3
+Plumestriker,3
+Wick Cooper,3
+Kalifa,3
+Davijaan,3
+Nari Sable,3
+Prakas,3
+Raddus,3
+Boost,3
+Sinker,3
+Adea Rite,3
+Tiggs Leo,3
+Arsin Crassus,3
+Warthog,3
+Corwin Ballast,3
+Deltic,3
+Februs Temmt,3
+Ferric Obdur,3
+Hodnar Borrum,3
+Isstra Dirus,3
+Karz Damascus,3
+Lero Danthe,3
+Morna Kee,3
+Nibiru Chamas,3
+Nils Tothwin,3
+Perwin Gedde,3
+Surat Nuat,3
+Tallatz,3
+Urian Orlan,3
+Valco Pandion,3
+Valent,3
+Windom Traducier,3
+Yale Karlsen,3
+Apolin,3
+Arliz Hadrassian's brother,3
+Fatil,3
+Giller,3
+Orris Madmund,3
+Ransolm Casterfo's father,3
+Ransolm Casterfo's mother,3
+Devi (scavenger),3
+Dosmit Ræh,3
+FN-1824,3
+Mashra,3
+Prana,3
+Sib Canay/Canon,3
+Strunk,3
+Teedo (Niima Outpost),3
+Unkar Plutt,3
+Roo-Roo Page,3
+Roo-Roo Page's mother/Canon,3
+Pikk Mukmuk,3
+Coba Dunivee,3
+Gandr Spanjaf,3
+CT-9544,3
+Pulsar (clone trooper),3
+Janard,3
+Janyor,3
+Baze Malbus,3
+Chirrut Îmwe,3
+Leo Leonis,3
+Dono (Onderonian),3
+Tandin,3
+Punch,3
+Sketch,3
+Snoke Loroan,3
+Sugi's sister,3
+Sabine Wren's father,3
+Clu Lesser,3
+Mak Plain,3
+TK-626,3
+Tepha Leonis,3
+Bannamu,3
+Piers Roddance,3
+Jo Jerjerrod,3
+Doom,3
+Kep-She,3
+Hollian,3
+Jooli,3
+Monthan,3
+Kren Blista-Vanee,3
+W. Wald,3
+Weazel,3
+Goran (instructor),3
+Cass,3
+Jek Tono Porkins,3
+Everi Chalis,3
+Lohgarra,3
+Meebur Gascon,3
+Sila Kott,3
+Wes Janson,3
+TK-462,3
+TK-462's father,3
+Wilhuff Tarkin's father,3
+Wilhuff Tarkin's mother,3
